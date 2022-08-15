@@ -193,7 +193,7 @@ console.log(techs)
 // console.log(12 / 2)
 
 // soma //
-// console.log( 34 + 67)
+// console.log(34 + 67)
 
 // subtração //
 // console.log(34 - 23)
@@ -228,7 +228,7 @@ console.log(techs)
 // let two = 2
 
 // == igual a //
-// console.log(two == 1)
+// console.log(two == 2)
 // console.log(one == "1")
 
 // != diferente de //
@@ -352,7 +352,7 @@ console.log(techs)
 // {}
 // []
 // 1
-// 3.23
+// 3.23 (decimais)
 // "0"
 // "false"
 // -1
@@ -368,7 +368,7 @@ console.log(techs)
 // multiplicação e divisão * /
 // adição e subtração + -
 // relacional < <= > >=
-// igualdade == != === !===
+// igualdade == != === !==
 // AND &&
 // OR ||
 // Condicional ? value1 : value2
@@ -392,7 +392,7 @@ console.log(techs)
 
 // switch //
 
-// function calculate(number1, operator,number2) {
+// function calculate(number1, operator, number2) {
 //     let result = 0;
 
 //     switch (operator) {
@@ -477,7 +477,7 @@ console.log(techs)
 // for...of //
 
 // let name = 'Maycon'
-// let names = ['joão', 'Paulo', 'Pedro']
+// let names = ['João', 'Paulo', 'Victor']
 
 // for(let name of names) {
 //     console.log(name)
